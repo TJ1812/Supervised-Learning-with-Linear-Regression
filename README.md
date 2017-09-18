@@ -9,3 +9,5 @@ Steps to successfully rum the project:
   b)matplotlib (cmd: pip install matplotlib)
   
 2) Open console where the project is saved and execute linearReg.py file by - "python linearReg.py".(Note that this file is a python 3 file so I would recommend you to change the above command accordingly if you have both python 2.7 and python 3 installed.)
+
+Additional Note:- This is randomly generated but correlated data. You can replace your data file instead of the data.csv.
